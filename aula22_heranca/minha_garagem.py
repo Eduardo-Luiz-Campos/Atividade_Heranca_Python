@@ -1,4 +1,4 @@
-from veiculo import Carro, Moto
+from aula22_heranca.veiculo import Carro, Moto
 
 v1 = Carro('Volkswagen', 'Gol', 2022, 4)
 v2 = Moto('Honda', 'CB', 2024, 471)
